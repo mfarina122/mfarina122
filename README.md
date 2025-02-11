@@ -1,4 +1,4 @@
-[![mfarina's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfarina122)](https://github.com/mfarina122/github-readme-stats)
+[![mfarina's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfarina122&hide=contribs,prs)](https://github.com/mfarina122/github-readme-stats)
 
 <!--
 **mfarina122/mfarina122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
