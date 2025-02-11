@@ -19,14 +19,6 @@
 <a href="https://play.kotlinlang.org"><img src="./assets/colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
 
 <!-- activity graph heroku-app start -->
-<p align="center">
-    <a href="https://wakatime.com/@mfarina122#gh-dark-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=mfarina122&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-    <a href="https://wakatime.com/@mfarina122#gh-light-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=mfarina122&theme=github-light&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-</p>
 <!-- activity graph heroku-app end -->
 
 <p align="center">
@@ -47,13 +39,6 @@
 <a href="https://wakatime.com/@mfarina122"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
 <a href="https://github.com/mfarina122?tab=following"><img src="https://img.shields.io/github/stars/mfarina122?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
 <a href="https://github.com/mfarina122?tab=followers"><img src="https://img.shields.io/github/followers/mfarina122?&logoColor=red&style=social" alt="GitHub followers"></a>
-</p>
-
-<p align="center">
-<a href="https://stackexchange.com/users/17728350/mfarina122?tab=accounts#gh-dark-mode-only"><img src="https://stackexchange.com/users/flair/17728350.png?theme=dark" width="208" height="58" alt="Профиль участника mfarina122 в Stack Exchange" title="Профиль участника mfarina122 в Stack Exchange"></a>
-<a href="https://stackexchange.com/users/17728350/mfarina122?tab=accounts#gh-light-mode-only"><img src="https://stackexchange.com/users/flair/17728350.png?theme=light" width="208" height="58" alt="Профиль участника mfarina122 в Stack Exchange" title="Профиль участника mfarina122 в Stack Exchange"></a>
-<a href="https://stackoverflow.com/users/13531449/mfarina122#gh-dark-mode-only"><img alt="stackoverflow badge" height="58" src="https://github-readme-stackoverflow.vercel.app/?userID=13531449&theme=dark&layout=compact"></a>
-<a href="https://stackoverflow.com/users/13531449/mfarina122#gh-light-mode-only"><img alt="stackoverflow badge" height="58" src="https://github-readme-stackoverflow.vercel.app/?userID=13531449&theme=light&layout=compact"></a>
 </p>
 
 <p align="center">
