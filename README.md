@@ -1,3 +1,4 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfarina122)](https://github.com/anuraghazra/github-readme-stats)
 [![mfarina's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfarina122&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/mfarina122/github-readme-stats)
 
 <!--
