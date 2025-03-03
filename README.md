@@ -16,8 +16,6 @@
 
 </p>
 
-<a href="https://play.kotlinlang.org"><img src="./assets/colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
-
 <!-- activity graph heroku-app start -->
 <!-- activity graph heroku-app end -->
 
